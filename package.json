@@ -1,0 +1,15 @@
+{
+  "name": "sacramento-tree-data",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-axton/sacramento-tree-data.git"
+  },
+  "main": "sacramento-tree-data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Axton",
+  "license": "MIT"
+}
